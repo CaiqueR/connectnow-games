@@ -10,9 +10,8 @@ export const Wrapper = styled.div`
     margin-top: ${theme.spacings.large};
 
     ${media.lessThan('mobile')`
-    padding: ${theme.spacings.xsmall};
-
-  `}
+      padding: ${theme.spacings.xsmall};
+    `}
   `}
 `
 
