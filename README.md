@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://connectnow-games.vercel.app/" target="_blank">
-    <img alt="ConnectNow - Games" src="https://svgshare.com/i/MKt.svg">
+    <img alt="ConnectNow - Games" src="https://i.ibb.co/1fKvGLP/Button.png">
   </a>
 </p>
 
