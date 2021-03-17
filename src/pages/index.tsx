@@ -1,5 +1,5 @@
-import Main from 'components/Main'
+import Games from 'templates/Games'
 
 export default function Home() {
-  return <Main />
+  return <Games />
 }

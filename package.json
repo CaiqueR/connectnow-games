@@ -3,13 +3,12 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev -p 3002",
     "build": "next build",
     "start": "next start",
     "lint": "eslint src --max-warnings=0",
     "test": "jest",
     "test:watch": "yarn test --watch",
-    "generate": "yarn plop --plopfile generators/plopfile.js",
     "storybook": "start-storybook -s ./public -p 6006",
     "build-storybook": "build-storybook -s ./public",
     "postinstall": "husky install"
@@ -21,11 +20,15 @@
     ]
   },
   "dependencies": {
+    "axios": "^0.21.1",
     "next": "10.0.8",
     "next-pwa": "^5.0.5",
+    "polished": "^4.1.1",
     "react": "17.0.1",
     "react-dom": "17.0.1",
-    "styled-components": "5.2.1"
+    "styled-components": "5.2.1",
+    "styled-media-query": "^2.1.2",
+    "swr": "^0.5.3"
   },
   "devDependencies": {
     "@babel/core": "^7.13.8",
@@ -51,7 +54,6 @@
     "jest": "^26.6.3",
     "jest-styled-components": "^7.0.3",
     "lint-staged": "^10.5.4",
-    "plop": "^2.7.4",
     "prettier": "^2.2.1",
     "storybook-addon-next-router": "^2.0.4",
     "typescript": "^4.2.3"

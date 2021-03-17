@@ -1,58 +1,60 @@
+![connectnow-games](https://i.ibb.co/nM6ct7v/Connectnow-Games.png)
 
-![React Avançado](https://raw.githubusercontent.com/React-Avancado/boilerplate/master/public/img/logo-gh.svg)
+<p align="center">
+  <a href="https://connectnow-games.vercel.app/" target="_blank">
+    <img alt="ConnectNow - Games" src="https://svgshare.com/i/MKt.svg">
+  </a>
+</p>
 
-This is a [Next.js](https://nextjs.org/) boilerplate to be used in a course called [React Avançado](https://reactavancado.com.br/).
-![ci](https://github.com/React-Avancado/boilerplate/workflows/ci/badge.svg)
-## What is inside?
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/caiquer/connectnow-games?color=%2304D361">
 
-This project uses lot of stuff as:
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/caiquer/connectnow-games">
 
-- [TypeScript](https://www.typescriptlang.org/)
-- [NextJS](https://nextjs.org/)
-- [Styled Components](https://styled-components.com/)
-- [Jest](https://jestjs.io/)
-- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
-- [Storybook](https://storybook.js.org/)
-- [Eslint](https://eslint.org/)
-- [Prettier](https://prettier.io/)
-- [Husky](https://github.com/typicode/husky)
+  <a href="https://www.linkedin.com/in/caiquer/">
+    <img alt="Made by Caique" src="https://img.shields.io/badge/made%20by-Caique Ribeiro-%2304D361">
+  </a>
 
-## Getting Started
 
-First, run the development server:
+  <a href="https://github.com/caiquer/connectnow-games/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/caiquer/connectnow-games">
+  </a>
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+   <a href="https://github.com/caiquer/connectnow-games/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/caiquer/connectnow-games?style=social">
+  </a>
+</p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 💻 About the project
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+This site was developed for the Frontend Developer vacancy challenge for the company ConnectNow. The goal was to make a website responsive and with the best practices, using the latest technologies.
 
-## Commands
+## 🛠 Techs
 
-- `dev`: runs your application on `localhost:3000`
-- `build`: creates the production build version
-- `start`: starts a simple server with the build production code
-- `lint`: runs the linter in all components and pages
-- `test`: runs jest to test all components and pages
-- `test:watch`: runs jest in watch mode
-- `storybook`: runs storybook on `localhost:6006`
-- `build-storybook`: create the build version of storybook
+The following tools were used in the construction of the project:
 
-## Learn More
+- ReactJS
+- NextJS
+- TypeScript
+- SWR
 
-To learn more about Next.js, take a look at the following resources:
+## 🚀 Installation and execution
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Clone this repository;
+2. Enter the folder by running `cd connectnow-games`;
+3. Run `yarn` or `npm install` to install dependencies;
+4. Run `yarn dev` or `npm run dev` to start application.
+## 🤔 How to contribute to the project
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+1. **Fork** the project.
+2. Create a new branch with your changes: `git checkout -b my-feature`
+3. Save your changes and create a commit message telling you what you did: `git commit -m" feature: My new feature "`
+4. Submit your changes: `git push origin my-feature`
+   > If you have any questions, check out this [guide on how to contribute to GitHub](https://github.com/firstcontributions/first-contributions)
 
-## Deploy on Vercel
+## 📝 License
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+This project is under the MIT license. See the [LICENSE](https://github.com/CaiqueR/connectnow-games/blob/master/LICENSE.md) to know more.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Made with ❤️ by Caique Ribeiro 👋🏽 [Contact!!](https://www.linkedin.com/in/caiquer/)
